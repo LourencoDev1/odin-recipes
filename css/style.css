@@ -17,3 +17,14 @@ ul {
     gap: 15px;
     
 }
+
+a {
+  text-decoration: none;  
+    
+
+}
+
+a:visited{
+    color: #4a4a4a;
+
+}
